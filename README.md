@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Dr. Sudhir Chandra Sur Institute of Technology and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Dr. Sudhir Chandra Sur Institute of Technology.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
